@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 2219,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/upgrade-a-windows-azure-sql-database-to-premium-and-configure-reservation-size/master/UpgradetoPremiumSQLDatabase.ps1",
+    "DownloadCount": 1811,
+    "Id": "Upgrade-a-Windows-Azure-34bb3b7a",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 268,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Script will walk you through checking if your database has been granted Permium database quota. Followed by how to upgrade reservations on a database to premium.**Note:** Premium database quota must be requested for your server via the Windows Azure Management Portal",
+    "Title": "Upgrade a Windows Azure SQL Database to Premium and Configure Reservation Size",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/upgrade-a-windows-azure-sql-database-to-premium-and-configure-reservation-size",
+    "UserTags": "Capacity Management"
+}
